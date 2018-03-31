@@ -30,7 +30,6 @@
         <div class="date">{{mes.d + 1138744800 | moment("H:mm DD.MM.YY")}}</div>
       </div>
     </div>
-    <pre>{{messages}}</pre>
   </div>
 </template>
 
